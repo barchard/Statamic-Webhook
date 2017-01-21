@@ -1,0 +1,7 @@
+any:
+  commands: []
+all:
+  commnads: []
+github:
+  secret_token: ''
+  commands: []
